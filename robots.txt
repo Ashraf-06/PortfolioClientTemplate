@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ashraf-06.github.io/PortfolioClientTemplate/sitemap.xml
